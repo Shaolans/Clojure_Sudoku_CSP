@@ -1,9 +1,4 @@
-# Mini-projet MrSudoku
-
-Le jeu du Sudoku en mini-projet.
-
-
-==> le fichier src/mrsudoku/engine.clj est à compléter...
-
-==> sans oublier le solveur ...
-
+#Project sudoku using CSP implemented in Clojure
+i.Install leiningen (https://leiningen.org/)
+ii.Go to the folder
+iii.Execute in the shell the command "lein run"
