@@ -1,4 +1,4 @@
 #Project sudoku using CSP implemented in Clojure
-i.Install leiningen (https://leiningen.org/)
-ii.Go to the folder
-iii.Execute in the shell the command "lein run"
+1.Install leiningen (https://leiningen.org/)
+2.Go to the folder
+3.Execute in the shell the command "lein run"
